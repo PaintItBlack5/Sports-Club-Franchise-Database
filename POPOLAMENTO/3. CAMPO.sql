@@ -1,0 +1,31 @@
+-- POPOLAMENTO CAMPO
+
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('S-01', 'Judo e Karate', 100, 'Tatami', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('S-02', 'Judo e Karate', 60, 'Tatami', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-01', 'Calcetto', 60, 'Terreno', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-02', 'Calcetto', 60, 'Terreno', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-03', 'Calcetto', 50, 'Erba sintetica', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-04', 'Calcetto', 60, 'Sintetico', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('P-01', 'Pallavolo', 70, 'Sintetico', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('P-02', 'Pallavolo', 70, 'Sintetico', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-01', 'Basket', 70, 'Sintetico', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-02', 'Basket', 80, 'Parquet', 'Napoli', 'Corso Umberto');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('S-20', 'Judo e Karate', 90, 'Tatami', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('S-21', 'Judo e Karate', 80, 'Tatami', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-20', 'Basket', 70, 'Sintetico', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-21', 'Basket', 70, 'Sintetico', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-22', 'Basket', 90, 'Parquet', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-23', 'Basket', 90, 'Parquet', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('P-20', 'Pallavolo', 80, 'Sintetico', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('P-21', 'Pallavolo', 90, 'Sintetico', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('P-22', 'Pallavolo', 70, 'Sintetico', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-21', 'Calcetto', 70, 'Sintetico', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-20', 'Calcetto', 80, 'Erba sintetica', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-22', 'Calcetto', 80, 'Terreno', 'Milano', 'Piazza Duomo');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('S-40', 'Judo e Karate', 50, 'Tatami', 'Portici', 'Corso Garibaldi');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-40', 'Calcetto', 50, 'Erba sintetica', 'Portici', 'Corso Garibaldi');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-41', 'Calcetto', 80, 'Sintetico', 'Portici', 'Corso Garibaldi');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-42', 'Calcetto', 50, 'Erba sintetica', 'Portici', 'Corso Garibaldi');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('C-43', 'Calcetto', 50, 'Erba sintetica', 'Portici', 'Corso Garibaldi');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-40', 'Basket', 70, 'Parquet', 'Portici', 'Corso Garibaldi');
+INSERT INTO campo (id_campo, disciplina, prezzo_orario, tipo_terreno, citta, via_piazza) VALUES ('B-41', 'Basket', 80, 'Parquet', 'Portici', 'Corso Garibaldi');
